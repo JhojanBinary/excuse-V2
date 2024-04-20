@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url("https://th.bing.com/th/id/R.f66e0abba1630d267b9028d8a4e77dc8?rik=JgRKr8DfRVlaxA&pid=ImgRaw&r=0");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.content {
+  text-align: center; /* Centra horizontalmente el contenido */
+  position: absolute; /* Establece posicionamiento absoluto */
+  bottom: 90px; /* Alinea el contenido en la parte inferior */
+  width: 100%; /* Opcional: establece el ancho del contenido */
+}
