@@ -1,4 +1,6 @@
 # Hello World with Vanilla JS
+![image](https://github.com/JhojanBinary/excuse-V2/assets/102551448/261bfb67-feda-4524-9635-891111d7b62b)
+![image](https://github.com/JhojanBinary/excuse-V2/assets/102551448/30ee6e37-dfb6-450e-a77f-c7c17a60cf6c)
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
 
