@@ -14,7 +14,10 @@ let when = [
   "justo a tiempo",
   "cuando terminé",
   "durante mi almuerzo",
-  "mientras dormia"
+  "mientras dormia",
+  "cuando miraba una peli",
+  "a la vez que hacia ejercicio",
+  "cuando escuchaba música"
 ];
 //funcion que genera un numero aleatorio del tamaño de la lista
 //el valor string se almacena en "who" en formato de lista  y luego en randonWho para un mejor uso
